@@ -1,11 +1,6 @@
-/******************************************************************************
 
-                            Online Java Compiler.
-                Code, Compile, Run and Debug java program online.
-Write your code in this editor and press "Run" button to execute it.
 
-*******************************************************************************/
-/* k BankAccount class banao jo encapsulation ko follow kare. Usme following functionalities honi chahiye:
+/* BankAccount class banao jo encapsulation ko follow kare. Usme following functionalities honi chahiye:
 
 Private attributes: accountNumber, accountHolderName, balance
 Constructor: Values initialize kare
